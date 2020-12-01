@@ -16,7 +16,7 @@ publishDate: 2020-11-30T19:37:40-03:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "University of Brasilia"
 publication_short: ""
 
 abstract: ""
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/SergioAlmeidaCiprianoJr/IC-2019-2020
 url_dataset:
 url_poster:
 url_project:

@@ -9,28 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "Papers"
+  parent = "Publications"
+  weight = 5
+  url = "#pub_journal"
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Chapters"
+  parent = "Publications"
+  weight = 6
+  url = "#pub_chapter"
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Conferences"
+  parent = "Publications"
+  weight = 7
+  url = "#pub_conference"
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "Technical Reports"
+  parent = "Publications"
+  url = "#pub_techrep"
+  weight = 10

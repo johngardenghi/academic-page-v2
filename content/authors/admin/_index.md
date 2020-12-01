@@ -1,55 +1,64 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: John L. Gardenghi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Software Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Faculty UnB Gama
+  url: "https://fga.unb.br/"
+
+- name: University of Brasilia
+  url: "https://www.unb.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor at Faculty UnB Gama, University of Brasilia.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Methods of Optimization
+- Algorithms
+- Software Engineering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: DSc in Computer Science
+    institution: University of Sao Paulo
+    year: 2017
+  - course: MSc in Computer Science
+    institution: University of Sao Paulo
+    year: 2014
+  - course: BSc in Computer Science
+    institution: University Sao Francisco
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/1723982878095429
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4443-8090
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2398591/john-l-gardenghi/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com.br/citations?user=5awmfGgAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/John_Gardenghi
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:john.gardenghi@unb.br'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "john.gardenghi@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+John L. Gardenghi is a professor of software engineering in the Faculty UnB Gama at the University of Brasilia. His research interests include algorithms, computational methods of optimization.
