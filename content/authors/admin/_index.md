@@ -6,7 +6,7 @@ title: John L. Gardenghi
 superuser: true
 
 # Role/position
-role: Professor of Software Engineering
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -17,12 +17,11 @@ organizations:
   url: "https://www.unb.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor at Faculty UnB Gama, University of Brasilia.
+bio: Assistant Professor at Faculty UnB Gama, University of Brasilia.
 
 interests:
 - Computational Methods of Optimization
 - Algorithms
-- Software Engineering
 
 education:
   courses:
@@ -66,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "john.gardenghi@gmail.com"
+email: "john.gardenghi@unb.br"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -78,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-John L. Gardenghi is a professor of software engineering in the Faculty UnB Gama at the University of Brasilia. His research interests include algorithms, computational methods of optimization.
+John L. Gardenghi is an assistant professor in the Faculty UnB Gama at the University of Brasilia. His research interests include computational methods of optimization and algorithms.
