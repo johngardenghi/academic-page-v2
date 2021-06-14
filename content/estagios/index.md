@@ -78,6 +78,10 @@ O aluno deve:
 
 Não. Entretanto, você poderá aproveitar retroativamente apenas as atividades que você fez depois de completar 70% do curso.
 
+#### Se eu aproveitar atividades retroativamente, a restrição do limite de créditos se aplica a mim?
+
+Sim. Independentemente da forma como você apresentará suas atividades na disciplina, a disciplina possui 14 créditos que são cursados no semestre de matrícula.
+
 #### Como é feita a avaliação na disciplina de estágio supervisionado?
 
 1. Formulário de avaliação de desempenho do estagiário pela concedente ([Anexo 2](anexos/anexo2.docx)), feito e assinado pelo supervisor de estágio na empresa
