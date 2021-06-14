@@ -35,3 +35,13 @@
   parent = "Publications"
   url = "#pub_techrep"
   weight = 10
+  
+[[main]]
+  name = "Teaching and Advisoring"
+  weight = 30
+  
+[[main]]
+  name = "Estágios na FGA"
+  parent = "Teaching and Advisoring"
+  url = "estagios"
+  weight = 5

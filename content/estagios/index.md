@@ -48,7 +48,11 @@ Estágio supervisionado é uma disciplina do curso de Engenharia de Software.
 
 #### Quando faço a matrícula para a disciplina de estágio supervisionado?
 
-A matrícula **não** é feita junto com a matrícula das demais disciplinas. Ela é feita geralmente no primeiro mês de aula do semestre, e os alunos são avisados geralmente pela lista de e-mails da FGA (eng_software@listas.fga.unb.br). Para o curso de Engenharia de Software, a matrícula também será publicada nesta página.
+A matrícula **não** é feita junto com a matrícula das demais disciplinas. **No semestre 2021/1, a matrícula ocorrerá de 26/07/2021 a 27/08/2021**. A solicitação de matrícula será feita pelo Microsoft Forms. O link para preenchimento do formulário será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
+
+#### Como funciona a matrícula em Estágio Supervisionado?
+
+Depois que o aluno solicita sua matrícula, o coordenador de estágio do curso, bem como a coordenação do curso, avaliam se o aluno cumpre todos os requisitos para cursar a disciplina. Depois de avaliados os requisitos, a secretaria da coordenação de cursos faz a matrícula de todos os alunos cuja solitação foi deferida.
 
 #### Quais os requisitos para cursar estágio supervisionado?
 
