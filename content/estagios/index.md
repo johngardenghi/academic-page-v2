@@ -231,7 +231,11 @@ O relatório de atividades precisa ser assinado:
 
 #### Quando devo entregar um relatório de atividades?
 
-No máximo a cada 6 meses durante a vigência do estágio. O relatório deve ser entregue ao coordenador de estágio.
+No máximo a cada 6 meses durante a vigência do estágio (veja Art. 7 da [Lei 11.788 de estágios](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)). O relatório deve ser entregue ao coordenador de estágio.
+
+#### Estou utilizando meu estágio não-obrigatório na disciplina de Estágio Supervisionado. Preciso apresentar um relatório de atividades para o estágio não-obrigatório?
+
+Sim. O relatório apresentado na disciplina de Estágio Supervisionado é uma exigência interna do PPC dos cursos de Engenharia da Faculdade do Gama, enquanto que o relatório de atividades do estágio não-obrigatório é uma exigência legal (veja questão anterior). Caso o período do relatório do Estágio Supervisionado seja o mesmo do período não superior a 6 meses do estágio não-obrigatório, o relatório apresentado na disciplina também pode ser apresentado para o estágio não-obrigatório.
 
 #### Quando preciso apresentar um termo aditivo?
 
