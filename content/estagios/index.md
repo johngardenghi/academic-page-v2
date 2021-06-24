@@ -75,7 +75,12 @@ O aluno deve:
 
 3. Projeto de pesquisa com plano de atividades
 	
-#### Que documentos devo apresentar para realizar a matrícula
+#### Que documentos devo apresentar para realizar a matrícula?
+
+Você precisa apresentar:
+* Histórico escolar (emitido pelo SIGAA)
+* Grade horária (emitido pelo SIGAA)
+* Comprovante da atividade para o estágio, que pode ser:
 
 1. Estágio obrigatório e não-obrigatório em qualquer instituição
 	- apresentar o *termo de compromisso de estágio* e o *plano de Atividades* assinados pelo Coordenador de Estágios da FGA e pela [CESG](http://www.deg.unb.br/a-coordenacao).
@@ -85,6 +90,23 @@ O aluno deve:
 
 3. Projeto de pesquisa com plano de atividades
 	- apresentar *plano de atividades* com assinatura do coordenador do projeto, constando período de vigência, carga horária e nome do grupo/instituição de pesquisa.
+
+Além dos documentos, você precisa de um orientador de estágio. Pode ser qualquer professor da UnB que concorde em orientá-lo.
+
+#### Como escolher um orientador de estágio para a disciplina de estágio supervisionado?
+
+O Orientador de Estágio para a disciplina de Estágio Supervisionado poderá qualquer professor da FGA (ou mesmo da UnB) que esteja disponível para fazer a avaliação do relatório de estágio.
+
+Uma lista de sugestões de candidatos para Orientador de Estágio é a seguinte:
+1. professor(a) orientador(a) de TCC;
+2. professor(a) orientador(a) de projeto de pesquisa;
+3. professor(a) orientador(a) de iniciação científica;
+4. Coordenador(a) de Estágio do curso;
+5. Coordenador de Graduação do curso.
+
+#### O orientador de estágio precisa ser o mesmo que consta no termo de compromisso de estágio?
+
+Não.
 
 #### Eu preciso fazer as atividades de estágio supervisionado no decorrer da disciplina?
 
@@ -111,21 +133,6 @@ Sim. Esse é o pulo do gato: se você é CLT, PJ ou coisa do tipo, precisa ter a
 #### Estou aproveitando um estágio/trabalho retroativamente e não tenho mais contato com a empresa. Como fazer?
 
 Infelizmente, para ser avaliado, você precisa entregar o Anexo 2, que é o formulário de avaliação do estagiário pela concedente. Portanto, você precisa ter alguém que trabalhe na concedente e que ateste sua avaliação. Então, leve isso em consideração ao escolher alguma atividade para aproveitar retroativamente: se você não tem mais contato com ninguém da empresa, você não vai conseguir entregar tudo que precisa para ser avaliado na disciplina.
-
-#### Como escolher um orientador de estágio para a disciplina de estágio supervisionado?
-
-O Orientador de Estágio para a disciplina de Estágio Supervisionado poderá qualquer professor da FGA (ou mesmo da UnB) que esteja disponível para fazer a avaliação do relatório de estágio.
-
-Uma lista de sugestões de candidatos para Orientador de Estágio é a seguinte:
-1. professor(a) orientador(a) de TCC;
-2. professor(a) orientador(a) de projeto de pesquisa;
-3. professor(a) orientador(a) de iniciação científica;
-4. Coordenador(a) de Estágio do curso;
-5. Coordenador de Graduação do curso.
-
-#### O orientador de estágio precisa ser o mesmo que consta no termo de compromisso de estágio?
-
-Não.
 
 #### Contratos de trabalho (CLT, MEI ou temporário) precisam ser formalizados junto à CESG?
 
