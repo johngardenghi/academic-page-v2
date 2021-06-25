@@ -3,7 +3,7 @@
 
 title: "Accelerated derivative-free spectral residual method for nonlinear systems of equations"
 authors: ["E. G. Birgin", "admin", "D. S. Marcondes", "J. M. Martínez"]
-date: 2021-04-26T17:44:17-03:00
+date: 2021-06-25T17:44:17-03:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

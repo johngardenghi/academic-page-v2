@@ -3,7 +3,7 @@
 
 title: "On the solution of linearly constrained optimization problems by means of barrier algorithms"
 authors: ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos"]
-date: 2020-05-18T00:00:00-03:00
+date: 2021-06-24T00:00:00-03:00
 doi: "10.1007/s11750-020-00559-w"
 
 # Schedule page publish date (NOT publication's date).
