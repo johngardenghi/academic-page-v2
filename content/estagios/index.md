@@ -59,7 +59,7 @@ Depois que o aluno solicita sua matrícula, o coordenador de estágio do curso, 
 O aluno deve:
 * ter concluído 70% da carga horária total do curso
 
-* apresentar 210h de atividades técnicas supervisionadas
+* apresentar 210h de atividades técnicas supervisionadas até a conclusão da disciplina
 
 * não exceder o limite de 32 créditos no total em disciplinas matriculadas (a não ser que seja um provável formando)
 	- a disciplina de estágio supervisionado possui 14 créditos, portanto o limite máximo de créditos em outras disciplinas é 18 (veja item a seguir).
