@@ -16,7 +16,7 @@ header:
 
 ## Inscrição para a disciplina de Estágio Supervisionado
 
-Basta acessar [este formulário](https://forms.office.com/r/wPwuFSj8ca).
+**Para solicitar matrícula em Estágio Supervisionado para 2021.1, basta acessar [este formulário](https://forms.office.com/r/wPwuFSj8ca)**.
 
 Você vai precisar de um orientador de estágio, e a matrícula dele(a), além da documentação comprobatória, histórico escolar e grade horária, os dois últimos emitidos pelo SIGAA.
 
