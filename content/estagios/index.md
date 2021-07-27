@@ -14,6 +14,14 @@ header:
   image: ""
 ---
 
+## Inscrição para a disciplina de Estágio Supervisionado
+
+Basta acessar [este formulário](https://forms.office.com/r/wPwuFSj8ca).
+
+Você vai precisar de um orientador de estágio, e a matrícula dele(a), além da documentação comprobatória, histórico escolar e grade horária, os dois últimos emitidos pelo SIGAA.
+
+Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
+
 * [Sobre o estágio](#sobre-o-estágio)
 
 * [Estágio supervisionado](#estágio-supervisionado)
