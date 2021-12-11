@@ -295,5 +295,5 @@ Qualquer professor da UnB.
 #### Posso solicitar aproveitamento do meu estágio não-obrigatório em créditos?
 
 Sim. Você pode:
-1. Aproveitar como atividades complementares, caso tenha feito o estágio (ou parte dele) antes de integralizar 50% do curso. A solicitação deve ser encaminhada à secretaria da FGA (unbgama@unb.br).
-2. Aproveitar para o [Estágio Supervisionado](#estágio-supervisionado) caso tenha feito o estágio (ou parte dele) depois de integralizar pelo menos 70% da carga horária do curso.
+1. Aproveitar como atividades complementares. Você pode solicitar caso tenha feito o estágio (ou parte dele) antes de completar 50% do curso. Neste caso, você deve (i) preencher este [formulário](formularios/formulario_atividades_complementares.pdf), solicitando 04 créditos por semestre estagiado e (ii) encaminhar o formulário, juntamente com o termo de compromisso de estágio devidamente assinado pelas partes, para o Chiquinho, da secretaria da FGA (xborges@unb.br).
+2. Aproveitar para o [Estágio Supervisionado](#estágio-supervisionado) caso tenha feito o estágio (ou parte dele) depois de integralizar pelo menos 70% da carga horária do curso. Para tanto, basta efetuar a matrícula na disciplina de Estágio Supervisionado e cumprir ao menos 210h de estágio depois de concluir de 70% do curso.
