@@ -18,7 +18,7 @@ header:
 
 **Para solicitar matrícula em Estágio Supervisionado para 2021.2, basta acessar [este formulário](https://forms.office.com/r/MCj9FsTQDu), que ficará disponível de 13/01/2022 a 08/04/2022**.
 
-Você vai precisar de um orientador de estágio, e a matrícula dele(a), além da documentação comprobatória, histórico escolar e grade horária, os dois últimos emitidos pelo SIGAA.
+Você vai precisar de um orientador de estágio, além da documentação comprobatória do estágio, histórico escolar e grade horária, os dois últimos emitidos pelo SIGAA.
 
 Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#estágio-supervisionado).
 
@@ -154,7 +154,11 @@ Qualquer aluno regularmente matriculado.
 
 #### Há alguma restrição para a realização do estágio?
 
-Sim. O Art. 6 do [Regulamento de Estágio da FGA](regulamento_estagio_fga.pdf) diz que estágios com carga horária semanal de 30h só podem ser feitos durante as férias ou por alunos que cursem, no máximo, 8 créditos em disciplinas durante o semestre letivo. No momento atual, a coordenação de cursos da FGA está abrindo exceção a este artigo, mas ele pode voltar a vigorar a qualquer momento.
+Sim. 
+
+* Você não pode ter choque de horário com qualquer disciplina (mesmo se tratando deste mundo remoto).
+
+* O Art. 6 do [Regulamento de Estágio da FGA](regulamento_estagio_fga.pdf) diz que estágios com carga horária semanal de 30h só podem ser feitos durante as férias ou por alunos que cursem, no máximo, 8 créditos em disciplinas durante o semestre letivo. No momento atual, a coordenação de cursos da FGA está abrindo exceção a este artigo, mas ele pode voltar a vigorar a qualquer momento.
 
 #### Encontrei um estágio. E agora?
 
