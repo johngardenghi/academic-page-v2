@@ -28,6 +28,18 @@ Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#está
 
 * [Estágio não-obrigatório](#estágio-não-obrigatório)
 
+Se você está procurando pelo coordenador de estágio do seu curso:
+
+* Engenharia Aeroespacial: Prof. Artem Andrianov (andrianov@unb.br)
+
+* Engenharia Automotiva: Prof.ª Rita de Cássia Silva (ritasilva@unb.br)
+
+* Engenharia de Energia: Prof. Felipe Chagas Storti (storti@unb.br)
+
+* Engenharia Eletrônica: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
+
+* Engenharia de Software: Prof. John Lenon Cardoso Gardenghi (john.gardenghi@unb.br)
+
 ## Sobre o estágio
 
 #### Quais são as diretrizes de estágio?
@@ -176,13 +188,13 @@ Primeiro, confira o seguinte:
 
 1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa.
 
-2. *A empresa vai pagar auxílio transporte*. O auxílio transporte é obrigatório (Art. 12 da [Lei 11.788 de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)), mesmo se o estágio for remoto.
+2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios, mesmo com a pandemia (veja mais [aqui](auxílio-transporte-e-seguro-contra-acidentes-pessoais-são-obrigatórios-para-estágios-não-obrigatórios)).
 
 3. *A empresa contratou um seguro de vida para o estagiário*. A contratação do seguro no estágio não obrigatório é obrigação da empresa (Art. 9, inciso IV, da [Lei 11.788 de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)).
 
 4. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
 
-5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades?).
+5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
 Depois de conferir se o documento está ok, basta encaminhar ao coordenador de estágio do seu curso.
 
@@ -215,7 +227,7 @@ São 4 possíveis documentos:
 
 #### Auxílio transporte e seguro contra acidentes pessoais são obrigatórios para estágios não-obrigatórios?
 
-Sim. Mesmo com a pandemia, ambos são obrigatórios (veja Art. 9 e Art. 12 da [Lei 11.788](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)).
+Sim. Ambos são obrigatórios por lei (veja Art. 9 e Art. 12 da [Lei 11.788](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)), e não há nova lei que abra qualquer exceção para essa regra, mesmo diante do trabalho remoto durante a pandemia.
 
 #### Há algum modelo para os documentos?
 
