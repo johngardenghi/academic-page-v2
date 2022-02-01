@@ -182,7 +182,9 @@ Primeiro, confira o seguinte:
 
 4. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
 
-5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de -compromisso-de-estágio-e-o-plano-de-atividades?).
+5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades?).
+
+Depois de conferir se o documento está ok, basta encaminhar ao coordenador de estágio do seu curso.
 
 #### Eu posso fazer estágio em qualquer empresa?
 
