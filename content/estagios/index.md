@@ -28,7 +28,7 @@ Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#está
 
 * [Estágio não-obrigatório](#estágio-não-obrigatório)
 
-Se você está procurando pelo coordenador de estágio do seu curso:
+## Quem são os coordenadores de estágio da FGA?
 
 * **Engenharia Aeroespacial**: Prof. Artem Andrianov (andrianov@unb.br)
 
@@ -36,9 +36,9 @@ Se você está procurando pelo coordenador de estágio do seu curso:
 
 * **Engenharia de Energia**: Prof. Felipe Chagas Storti (storti@unb.br)
 
-* **Engenharia Eletrônica**: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
-
 * **Engenharia de Software**: Prof. John Lenon Cardoso Gardenghi (john.gardenghi@unb.br)
+
+* **Engenharia Eletrônica**: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
 
 ## Sobre o estágio
 
@@ -194,7 +194,7 @@ Primeiro, confira se o seu contrato está de acordo com os 4 itens a seguir:
 
 4. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
-Depois de conferir se o documento está ok, basta encaminhar ao coordenador de estágio do seu curso.
+Depois de conferir se o documento está ok, basta encaminhar ao [coordenador de estágio do seu curso](#quem-são-os-coordenadores-de-estágio-da-fga).
 
 #### Eu posso fazer estágio em qualquer empresa?
 
