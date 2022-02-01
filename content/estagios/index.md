@@ -170,6 +170,20 @@ Veja o processo detalhado (clique para ampliar):
 
 <a href="processo_tce_nao_obrigatorio.png" target="_blank">![Processo de contratação de estágio não-obrigatório](processo_tce_nao_obrigatorio.png)</a>
 
+#### Tenho um termo de compromisso de estágio. O que devo fazer?
+
+Primeiro, confira o seguinte:
+
+1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa.
+
+2. *A empresa vai pagar auxílio transporte*. O auxílio transporte é obrigatório (Art. 12 da [Lei 11.788 de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)), mesmo se o estágio for remoto.
+
+3. *A empresa contratou um seguro de vida para o estagiário*. A contratação do seguro no estágio não obrigatório é obrigação da empresa (Art. 9, inciso IV, da [Lei 11.788 de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)).
+
+4. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
+
+5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de -compromisso-de-estágio-e-o-plano-de-atividades?).
+
 #### Eu posso fazer estágio em qualquer empresa?
 
 Sim. Entretanto, o responsável pelo termo de compromisso precisa ser conveniado à UnB. Isto significa o seguinte:
@@ -215,6 +229,8 @@ Sim.
 
 * [Relatório de atividades](modelos/relatorio.odt)
 
+Caso a empresa ou a agência de integração já tenha providenciado um documento com modelo próprio, não é necessário providenciar os modelos da UnB, basta que as cláusulas estejam minimamente de acordo com os modelos.
+
 #### Quem precisa assinar o termo de compromisso de estágio e o plano de atividades?
 
 O termo de compromisso de estágio precisa ser assinado:
@@ -223,7 +239,7 @@ O termo de compromisso de estágio precisa ser assinado:
 3. pela UnB.
 
 O plano de atividades, por sua vez, deve ser assinado:
-1.  pelo aluno, 
+1. pelo aluno, 
 2. pelo supervisor de estágio na empresa, 
 3. pelo representante da empresa, 
 4. pelo orientador de estágio na UnB e
