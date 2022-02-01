@@ -30,15 +30,15 @@ Leia abaixo um pouco mais sobre a disciplina de [estágio supervisionado](#está
 
 Se você está procurando pelo coordenador de estágio do seu curso:
 
-* Engenharia Aeroespacial: Prof. Artem Andrianov (andrianov@unb.br)
+* **Engenharia Aeroespacial**: Prof. Artem Andrianov (andrianov@unb.br)
 
-* Engenharia Automotiva: Prof.ª Rita de Cássia Silva (ritasilva@unb.br)
+* **Engenharia Automotiva**: Prof.ª Rita de Cássia Silva (ritasilva@unb.br)
 
-* Engenharia de Energia: Prof. Felipe Chagas Storti (storti@unb.br)
+* **Engenharia de Energia**: Prof. Felipe Chagas Storti (storti@unb.br)
 
-* Engenharia Eletrônica: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
+* **Engenharia Eletrônica**: Prof. Wellington Avelino do Amaral (waamaral@unb.br)
 
-* Engenharia de Software: Prof. John Lenon Cardoso Gardenghi (john.gardenghi@unb.br)
+* **Engenharia de Software**: Prof. John Lenon Cardoso Gardenghi (john.gardenghi@unb.br)
 
 ## Sobre o estágio
 
@@ -184,17 +184,15 @@ Veja o processo detalhado (clique para ampliar):
 
 #### Tenho um termo de compromisso de estágio. O que devo fazer?
 
-Primeiro, confira o seguinte:
+Primeiro, confira se o seu contrato está de acordo com os 4 itens a seguir:
 
 1. *A data inicial do contrato é posterior à data atual*. A UnB não assina contratos com data de início retroativa.
 
-2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios, mesmo com a pandemia (veja mais [aqui](auxílio-transporte-e-seguro-contra-acidentes-pessoais-são-obrigatórios-para-estágios-não-obrigatórios)).
+2. *A empresa vai pagar auxílio transporte e contratar seguro contra acidentes pessoais*. Ambos são obrigatórios, mesmo com a pandemia (veja mais [aqui](#auxílio-transporte-e-seguro-contra-acidentes-pessoais-são-obrigatórios-para-estágios-não-obrigatórios)).
 
-3. *A empresa contratou um seguro de vida para o estagiário*. A contratação do seguro no estágio não obrigatório é obrigação da empresa (Art. 9, inciso IV, da [Lei 11.788 de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)).
+3. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
 
-4. *O horário do estágio não conflita com o horário das disciplinas*. Caso conflite, uma boa solução é pedir para a empresa colocar "horário flexível compatível com a grade horária escolar do estudante".
-
-5. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
+4. *O documento já está devidamente assinado pelas partes*. Veja quem precisa assinar [aqui](#quem-precisa-assinar-o-termo-de-compromisso-de-estágio-e-o-plano-de-atividades).
 
 Depois de conferir se o documento está ok, basta encaminhar ao coordenador de estágio do seu curso.
 
