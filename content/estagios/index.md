@@ -68,7 +68,7 @@ Estágio supervisionado é uma disciplina dos cursos de Engenharia da FGA.
 
 #### Quando faço a matrícula para a disciplina de estágio supervisionado?
 
-A matrícula **não** é feita junto com a matrícula das demais disciplinas. **No semestre 2021/1, a matrícula ocorrerá de 26/07/2021 a 27/08/2021**. A solicitação de matrícula será feita pelo Microsoft Forms. O link para preenchimento do formulário será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
+A matrícula **não** é feita junto com a matrícula das demais disciplinas. **No semestre 2021/2, a matrícula ocorrerá de 13/01/2022 a 08/04/2022**. A solicitação de matrícula será feita pelo Microsoft Forms. O link para preenchimento do formulário será publicado nesta página e pela lista de e-mails da FGA (eng_software@listas.fga.unb.br).
 
 #### Como funciona a matrícula em Estágio Supervisionado?
 
@@ -298,7 +298,11 @@ Sempre que o estágio for interrompido antes da data final constante no termo de
 
 #### Quanto tempo a CESG demora para assinar um documento?
 
-A CESG assina documentos de estágio de toda a universidade, portanto a demanda é altíssima. Em geral, a demora é de, pelo menos, dois dias úteis, mas dependendo da demanda, pode demorar um pouco mais.
+A CESG assina documentos de estágio de toda a universidade, portanto a demanda é altíssima. No momento atual a CESG está demorando pelo menos 5 dias úteis para dar uma resposta, mas dependendo da demanda, pode demorar um pouco mais.
+
+Ainda deve-se considerar o tempo que a coordenação de estágio do seu curso demorará para processar seus documentos e enviá-los via SEI para a CESG.
+
+Portanto, recomenda-se que processos de estágio sejam feitos com antecedência de 15 dias da data início.
 
 #### Como assinar os documentos?
 
